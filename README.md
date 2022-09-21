@@ -20,5 +20,5 @@
 - Add a description about you 
 - Add your projects 
 - Add a summary
-- Add your social media acCounts
+- Add your social media accounts
 
